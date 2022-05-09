@@ -1,6 +1,5 @@
 """
     Author : Shweta Chauhan
-    Email : shwetachauhan@lucidmotors.com
 
     This tool is to extract arxml files in an excel sheet, sort the messages based on the ID's and then calculate message delay per CAN cluster
 
